@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Desktop/Dante 2/10.10/doubly_linked_list.c
+doubly_linked_list.h
+/root/Desktop/Dante 2/10.10/doubly_linked_list.h
+stdlib.h
+-
+stdio.h
+-
+tested_declarations.h
+/root/Desktop/Dante 2/10.10/tested_declarations.h
+rdebug.h
+/root/Desktop/Dante 2/10.10/rdebug.h
+
+/root/Desktop/Dante 2/10.10/doubly_linked_list.h
+
+/root/Desktop/Dante 2/10.10/rdebug.h
+
+/root/Desktop/Dante 2/10.10/tested_declarations.h
+doubly_linked_list.h
+/root/Desktop/Dante 2/10.10/doubly_linked_list.h
+

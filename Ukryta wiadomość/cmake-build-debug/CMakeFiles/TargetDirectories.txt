@@ -1,0 +1,3 @@
+C:/Dante 2/3/3.12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dante 2/3/3.12/cmake-build-debug/CMakeFiles/3_12.dir
+C:/Dante 2/3/3.12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

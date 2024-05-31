@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Desktop/Dante 2/8.7/main.c
+stdio.h
+-
+stdarg.h
+-
+string.h
+-
+math.h
+-
+stdlib.h
+-
+ctype.h
+-
+tested_declarations.h
+/root/Desktop/Dante 2/8.7/tested_declarations.h
+rdebug.h
+/root/Desktop/Dante 2/8.7/rdebug.h
+tested_declarations.h
+/root/Desktop/Dante 2/8.7/tested_declarations.h
+rdebug.h
+/root/Desktop/Dante 2/8.7/rdebug.h
+tested_declarations.h
+/root/Desktop/Dante 2/8.7/tested_declarations.h
+rdebug.h
+/root/Desktop/Dante 2/8.7/rdebug.h
+tested_declarations.h
+/root/Desktop/Dante 2/8.7/tested_declarations.h
+rdebug.h
+/root/Desktop/Dante 2/8.7/rdebug.h
+tested_declarations.h
+/root/Desktop/Dante 2/8.7/tested_declarations.h
+rdebug.h
+/root/Desktop/Dante 2/8.7/rdebug.h
+
+/root/Desktop/Dante 2/8.7/rdebug.h
+
+/root/Desktop/Dante 2/8.7/tested_declarations.h
+

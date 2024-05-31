@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,-Map=main.map -Wl,-wrap,main -ggdb3 -Wl,-cref CMakeFiles/project1.dir/main.c.o CMakeFiles/project1.dir/stack.c.o CMakeFiles/project1.dir/unit_helper_v2.c.o CMakeFiles/project1.dir/unit_test_v2.c.o CMakeFiles/project1.dir/rdebug.c.o -o project1  -lm 

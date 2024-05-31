@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Desktop/Dante 2/10.4/stack.c
+stack.h
+/root/Desktop/Dante 2/10.4/stack.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+/root/Desktop/Dante 2/10.4/stack.h
+
